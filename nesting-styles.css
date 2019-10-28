@@ -1,0 +1,7 @@
+.sidebar p img{
+  display: block;
+}
+
+// <div class="sidebar">
+// <p>This image: <img src="whatever.jpg" alt="whatever"> will be on its own line.</p>
+// </div>
