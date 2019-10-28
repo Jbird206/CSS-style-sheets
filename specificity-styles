@@ -1,0 +1,14 @@
+p {
+  background-color: green;
+}
+
+p.slow {
+  background-color: yellow;
+}
+
+p.slow .stop {
+  background-color: red;
+}
+
+//<p>This will have a green background.</p>
+//<p class="slow">This will have a yellow background. <span class="stop">And this a red background.</span></p>
